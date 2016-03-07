@@ -1,0 +1,6 @@
+---
+platform: linux
+inputs:
+  - name: test-pipeline
+run:
+  path: test-pipeline/scripts/test-job.sh
